@@ -1,0 +1,21 @@
+{
+  "prices": {
+    "Alcohol": 5.0,
+    "Candy": 1.0,
+    "Canned Food": 2.5,
+    "Chocolate": 2.0,
+    "Dessert": 3.0,
+    "Dried Food": 2.0,
+    "Dried Fruit": 2.5,
+    "Drink": 1.5,
+    "Gum": 0.5,
+    "Instant Drink": 1.5,
+    "Instant Noodles": 1.0,
+    "Milk": 1.2,
+    "Personal Hygiene": 4.0,
+    "Puffed Food": 1.0,
+    "Seasoner": 0.8,
+    "Stationery": 1.5,
+    "Tissue": 1.0
+  }
+}
