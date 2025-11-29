@@ -1,6 +1,0 @@
-PyQt5==5.15.9
-torch==2.9.1
-torchvision>=0.15.2,<1.0
-opencv-python>=4.7.0
-Pillow==10.0.0
-numpy==2.3.5
